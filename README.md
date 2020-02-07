@@ -1,5 +1,6 @@
 # Histopathologic-Cancer-Detection-using-DeepLearning
 This was my capstone project for udacity's Machine Learning Engineer Nanodegree
+For all the detailed description of this project please read the report.
 
 This project was implemented using python 3 in a google colaboratory notebook with GPU as a hardware accelerator, the deep learning library Keras with TensorFlow as a backend and Kaggle
 API to download the dataset.
